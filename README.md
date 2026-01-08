@@ -1,1 +1,1 @@
-# MateriiDark for Aliucord
+# MateriiDark Aliucord Theme
