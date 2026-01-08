@@ -4,7 +4,7 @@
         "author": "LampDelivery",
         "name": "Materii",
         "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/materii\/main\/materii.json",
-        "license": "EPL-2.0"
+        "license": "GPL-3.0 License"
     },
     "simple_colors": {
         "blocked_bg": -15856114,
@@ -119,3 +119,4 @@
         "img_logo_wordmark": "system_accent2_800"
     }
 }
+
