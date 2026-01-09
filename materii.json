@@ -47,8 +47,8 @@
     "ic_visibility_white_24dp": "system_accent2_800",
     "ic_thread_white_24dp": "system_accent2_800",
     "ic_notifications_settings_white_a60_24dp": "system_accent2_800",
-    "ic_account_circle_white_a60_24dp": "system_accent2_800"
     "ic_status_online_16dp": "system_accent1_300",
+    "ic_account_circle_white_a60_24dp": "system_accent2_800"
   },
   "raws": {}
 }
