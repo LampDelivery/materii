@@ -37,7 +37,6 @@
     "brand_500_alpha_20": "system_accent3_900",
     "status_yellow_500_alpha_10": "system_neutral2_900",
     "status_yellow_500": "system_accent1_600",
-    "status_green_500_alpha_20": "system_accent2_800",
     "uikit_settings_item_text_color_light": "system_neutral2_600"
   },
   "drawable_tints": {
