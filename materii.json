@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "LampDelivery",
     "name": "Materii",
-    "updater": "https://raw.githubusercontent.com/LampDelivery/Materii/main/materii.json",
+    "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/Materii\/main\/materii.json",
     "license": "GPL-3.0 License"
   },
 
@@ -138,3 +138,4 @@
     "img_logo_wordmark": "system_accent1_500"
   }
 }
+
