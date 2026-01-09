@@ -24,7 +24,7 @@
     "blocked_bg": "system_neutral2_900",
     "mention_highlight": "system_accent1_300",
     "mention_highlight_text": "system_neutral1_100",
-    "mention_highlight_border": "system_accent2_300"
+    "mention_highlight_border": "system_accent2_300",
     "active_channel": "system_neutral2_700"
   },
   "colors": {
@@ -51,6 +51,7 @@
   },
   "raws": {}
 }
+
 
 
 
