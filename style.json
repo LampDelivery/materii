@@ -21,11 +21,11 @@
   },
   "user_bar": {
     "radius": 16
-  }
+  },
   "bottom_bar": {
-  "radius": 16
-  }
+    "radius": 16
+  },
   "tabs_host_bottom_navigation_view": {
-  "radius": 16
+    "radius": 16
   }
 }
