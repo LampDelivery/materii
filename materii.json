@@ -41,6 +41,24 @@
     "uikit_settings_item_text_color_light": "system_neutral2_600"
   },
   "drawable_tints": {
+    "ic_arrow_right_24dp": "system_neutral2_500",
+    "ic_arrow_downward_white_16dp": "system_accent2_50",
+    "ic_arrow_upward_white_16dp": "system_accent2_50",
+    "ic_navigate_next_white_a60_24dp": "system_accent1_100",
+    "ic_channel_text": "system_neutral2_500",
+    "ic_channel_text_nsfw": "system_neutral2_500",
+    "ic_channel_text_locked": "system_neutral2_500",
+    "ic_channel_lock_16dp": "system_neutral2_500",
+    "ic_channel_text_grey_18dp": "system_neutral2_500",
+    "ic_channel_voice_grey_18dp": "system_neutral2_500",
+    "ic_channel_announcements_thread_nsfw": "system_neutral2_500",
+    "ic_channel_announcements_thread_locked": "system_neutral2_500",
+    "ic_channel_announcements_thread": "system_neutral2_500",
+    "ic_channel_announcements_nsfw": "system_neutral2_500",
+    "ic_channel_announcements_locked": "system_neutral2_500",
+    "ic_channel_announcements_16dp": "system_neutral2_500",
+    "ic_channel_announcements": "system_neutral2_500",
+    "ic_direct_message_header": "system_neutral2_500",  
     "ic_sidebar_pins_off_dark_24dp": "system_neutral2_100",
     "ic_sidebar_notifications_off_dark_24dp": "system_accent1_800",
     "ic_sidebar_notifications_on_dark_24dp": "system_neutral2_100",
@@ -52,6 +70,13 @@
     "ic_notifications_settings_white_a60_24dp": "system_accent2_800",
     "ic_status_online_16dp": "system_accent1_300",
     "ic_account_circle_white_a60_24dp": "system_accent2_800"
+    "drawable_button_red": "system_accent3_600",
+    "drawable_button_grey": "system_neutral2_900",
+    "drawable_open_folder_dark": -15856114,
+    "drawable_bg_reaction_dark": 860901456,
+    "drawable_bg_highlight": "system_accent3_600",
+    "drawable_overlay_channels_selected_dark": "system_neutral2_900",
+    "drawable_overlay_channels_dark": "system_accent2_900",
   },
   "raws": {}
 }
