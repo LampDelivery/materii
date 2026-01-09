@@ -15,7 +15,7 @@
     "whitney_semibold": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_semibold.ttf",
     "whitney_medium": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_medium.ttf"
   },
-    "simple_colors": {
+  "simple_colors": {
         "background": "system_neutral1_900",
         "background_secondary": "system_neutral2_800",
         "statusbar": "system_neutral2_800",
@@ -47,6 +47,7 @@
     },
     "raws": {}
 }
+
 
 
 
