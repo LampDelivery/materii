@@ -7,22 +7,13 @@
   "chat_list_adapter_item_text": {
     "radius": 16
   },
-  "chat_input": {
+  "main_input_container": {
     "radius": 16
   },
-  "send_btn_container": {
+  "widget_channels": {
     "radius": 16
   },
-  "guilds_list": {
-    "radius": 16
-  },
-  "channels_list_container": {
-    "radius": 16
-  },
-  "bottom_bar": {
-    "radius": 16
-  },
-  "tabs_host_bottom_navigation_view": {
+  "widget_tabs_host_bottom_navigation_view": {
     "radius": 16
   }
 }
